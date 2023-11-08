@@ -2,18 +2,18 @@
  A Frontend with many games and a simple user interface
 
 
-##CSS
+## CSS
 
 * Learn about BEM pattern (https://getbem.com/introduction/)
 * Improve knowledge about Flex (https://origamid.com/projetos/flexbox-guia-completo/ | https://flexboxfroggy.com/)
 
 
-##React
+## React
 
 * Better understand how component events work (https://react.dev/learn/responding-to-events)
 
 
-##Focus of project
+## Focus of project
 
 * Create a React Game Creation project, where you must present a list of created games, containing
 * Game name
